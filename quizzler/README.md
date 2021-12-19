@@ -2,19 +2,13 @@
 
 Final Year B.C.A Project (Quizzler)
 
+## Api
+[Open Trivia Api](https://opentdb.com/)
+
 ## Some Images
 
-![home](https://user-images.githubusercontent.com/54762361/146671565-44815fb9-edbc-4f92-83e4-536940b216f4.jpg)
-![dialog](https://user-images.githubusercontent.com/54762361/146671576-866b7a01-6b11-48e9-a323-f4e9be5d887e.jpg)
-![quiz](https://user-images.githubusercontent.com/54762361/146671584-c0d9ddc7-3adb-4be6-98ce-058bc52444ed.jpg)
-![result](https://user-images.githubusercontent.com/54762361/146671588-4691590e-8cc8-4187-95cd-f201d44edf58.jpg)
-![answers](https://user-images.githubusercontent.com/54762361/146671591-d3db2436-d577-4e87-9276-b5040968dccd.jpg)
-
-
-
-
-
-
-
-
-
+![home](https://user-images.githubusercontent.com/54762361/146672462-675d0566-75f4-41f5-9f57-4fbe88280835.jpg)
+![alert](https://user-images.githubusercontent.com/54762361/146672465-e6bf685c-10ab-439a-8a10-3e1bd6c3bff8.jpg)
+![quiz](https://user-images.githubusercontent.com/54762361/146672467-37295546-de0f-4aa4-82f8-67e8cb5e4228.jpg)
+![result](https://user-images.githubusercontent.com/54762361/146672473-76813fec-7081-48a8-9335-fc138aa2f94a.jpg)
+![answers](https://user-images.githubusercontent.com/54762361/146672476-a3012901-6b1a-4498-bdea-2e94dfa77c98.jpg)

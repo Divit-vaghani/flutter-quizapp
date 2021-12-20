@@ -54,7 +54,7 @@ class Result extends StatelessWidget {
                     ),
                     ReUsableListTile(
                       leading: 'Score',
-                      trailing: '${correct / question.length * 100}% / 100%',
+                      trailing: '${(correct / question.length * 100).toStringAsFixed(1)}% / 100%',
                     ),
                     ReUsableListTile(
                       leading: 'Correct Answer',
